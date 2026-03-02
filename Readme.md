@@ -304,7 +304,14 @@ Educational project for academic use.
 
 ---
 
-# 🙌 Author
+# 👨‍💻 Team Members
 
 Kirthish Shetty
-GraphQL Librarian Tracking Mini Project
+
+Shweta Shetty
+
+Grishma Thakare
+
+Pranav Kale
+
+Arham Khan
